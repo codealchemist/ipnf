@@ -29,17 +29,17 @@ Options:
 
 ### IPv4
 
-- CIDR "x.x.x.x/x"
-- Range "x.x.x.x-x.x.x.x"
+- CIDR `x.x.x.x/x`
+- Range `x.x.x.x-x.x.x.x`
 
 ### IPv6
 
-- CIDR "x:x:x:x:x:x:x:x/x"
-- Range "::x:x:x-::x:x:x"
+- CIDR `x:x:x:x:x:x:x:x/x`
+- Range `::x:x:x-::x:x:x`
 
 ## Examples
 
-- Scans every IP in passed ranges looking for the "images/logo.png" file:
+- Scans every IP in passed ranges looking for the _"images/logo.png"_ file:
 
   `ipnf -r xxx.xxx.xx1.0/24,xxx.xxx.xx2.0/24 -p images/logo.png`
 
