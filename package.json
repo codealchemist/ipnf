@@ -21,7 +21,7 @@
     "args": "^5.0.1",
     "async": "^3.2.0",
     "chalk": "^4.0.0",
-    "get-ip-range": "^2.1.0",
+    "get-ip-range": "^4.0.0",
     "got": "^11.1.4",
     "is-reachable": "^4.0.0"
   }
